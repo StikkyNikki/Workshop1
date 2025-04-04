@@ -58,6 +58,7 @@ PlatformIO är ett utvecklingsverktyg för programmering av mikrokontroller, som
 
 1. Öppna VS Code
 2. Klicka på **Extensions** (fyrkantsikonen till vänster)
+![extensions](https://github.com/user-attachments/assets/0f9d74a6-0c1a-489b-8ec9-05657efd8989)
 3. Sök efter **PlatformIO IDE**
 4. Klicka på **Installera**
 
@@ -72,6 +73,7 @@ VS Code kommer nu att installera alla nödvändiga delar automatiskt.
 3. Skapa ett nytt projekt:
    - Välj kort: t.ex. **Arduino Uno R4 WIFI**
    - Välj ramverk: **Arduino**
+
 4. Skriv in ett enkelt testprogram, t.ex. en switch-knapp som får en LED att lysa:
 
 
